@@ -1,0 +1,7 @@
+python3 -m venv text2sql_venv
+
+source text2sql_venv/bin/activate
+
+pip install ...
+
+deactivate
